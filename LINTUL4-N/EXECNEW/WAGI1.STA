@@ -1,0 +1,61 @@
+
+
+
+*** RESULTS OF CROP GROWTH MODEL LINTUL4 *** SUMMARY OF OUTPUT FOR CROP GROWTH, YIELD, WATER BALANCE AND NITROGEN UPTAKE, AND STATISTICS ***
+
+Name of run: WAGI1, Station= WAGE , Soil=   1, Crop=   1, Irr.=   1, IOPT=   1, Runof= 0.00, CO2= 370.
+ Wageningen, irrig.,wheat var.1, RUE=3.0                                         
+
+
+YEAR    PL   EMERG FLOW  HALT    WSO     TAGB   HI  PARAB  RUE   DWAV RAIN  ESOIL   TRANS DRAIN RUNOF  IRR   WUE  NUPT  NFIX    NLIV   NLOSS   NUE    TRANRF   NNI  
+1969     0     1   164   221     8504.  17854. 0.48  843.  2.12    6.  406.  118.   277.   80.    0.   64.  4.51  153.2    0.0  146.5   15.1  112.3   1.00   1.00
+1970     0     1   169   229     7857.  18848. 0.42  835.  2.26   -7.  484.  115.   273.  148.    0.   60.  4.86  172.7    0.0  161.5   19.5  106.7   1.00   1.00
+1971     0     1   156   220     8513.  17529. 0.49  855.  2.05   23.  371.   99.   260.   35.    0.    0.  4.90  144.0    0.0  137.0   15.3  116.8   1.00   1.00
+1972     0     1   160   223     8428.  16196. 0.52  781.  2.07  -63.  506.  115.   235.   93.    0.    0.  4.62  134.1    0.0  129.6   12.8  115.4   1.00   1.00
+1973     0     1   165   224     9397.  17776. 0.53  858.  2.07   27.  361.  128.   254.   67.    0.   60.  4.65  139.8    0.0  134.1   14.1  121.6   1.00   1.00
+1974     0     1   150   220     8957.  16354. 0.55  872.  1.87   39.  348.  111.   238.   37.    0.    0.  4.69  126.8    0.0  122.6   12.5  122.6   1.00   1.00
+
+ MEANS over   6 years  :
+         0.    1.  161.  223.    8609.  17426. 0.50  841.  2.07    4.  413.  114.   256.   77.    0.   31.  4.70  145.1    0.0  138.5   14.9  115.9   1.00   1.00
+ STANDARD DEVIATIONS  :
+         0.    0.    6.    3.     476.    913. 0.04   29.  0.11   33.   61.    9.    16.   38.    0.   31.  0.13   14.8    0.0   12.6    2.3    5.4   0.00   0.00
+ VARIATION COEFFICIENTS (%)  : 
+        0.0   0.0   3.9   1.4      5.5     5.2  8.7   3.5   5.4 780.0  14.8   7.8    6.2  49.8   0.0 100.1   2.8   10.2    0.0    9.1   15.5    4.7   0.00   0.00
+
+
+
+*** RESULTS OF CROP GROWTH MODEL LINTUL4 *** SUMMARY OF OUTPUT FOR CROP GROWTH, YIELD, WATER BALANCE AND NITROGEN UPTAKE, AND STATISTICS ***
+
+Name of run: WAGW2, Station= WAGE , Soil=   1, Crop=   1, Irr.=   0, IOPT=   2, Runof= 0.00, CO2= 370.
+ Wageningen, water limit.,wheat var.1, RUE=3.0                                   
+
+
+YEAR    PL   EMERG FLOW  HALT    WSO     TAGB   HI  PARAB  RUE   DWAV RAIN  ESOIL   TRANS DRAIN RUNOF  IRR   WUE  NUPT  NFIX    NLIV   NLOSS   NUE    TRANRF   NNI  
+1975     0     1   160   220     8512.  15912. 0.53  800.  1.99  -17.  473.  140.   209.  106.    0.    0.  4.56  121.5    0.0  118.8   11.0  124.1   1.00   1.00
+1976     0     1   161   216     6024.  13642. 0.44  878.  1.55  112.  243.  102.   228.   25.    0.    0.  4.14  123.6    0.0  119.7   12.2  105.3   0.89   1.00
+
+ MEANS over   2 years  :
+         0.    1.  160.  218.    7268.  14777. 0.49  839.  1.77   47.  358.  121.   219.   66.    0.    0.  4.35  122.5    0.0  119.3   11.6  114.7   0.95   1.00
+ STANDARD DEVIATIONS  :
+         0.    0.    0.    0.       0.      0. 0.00    0.  0.00    0.    0.    0.     0.    0.    0.    0.  0.00    0.0    0.0    0.0    0.0    0.0   0.00   0.00
+ VARIATION COEFFICIENTS (%)  : 
+        0.0   0.0   0.0   0.0      0.0     0.0  0.0   0.0   0.0   0.0   0.0   0.0    0.0   0.0   0.0   0.0   0.0    0.0    0.0    0.0    0.0    0.0   0.00   0.00
+
+
+
+*** RESULTS OF CROP GROWTH MODEL LINTUL4 *** SUMMARY OF OUTPUT FOR CROP GROWTH, YIELD, WATER BALANCE AND NITROGEN UPTAKE, AND STATISTICS ***
+
+Name of run: WAGN3, Station= WAGE , Soil=   1, Crop=   1, Irr.=   0, IOPT=   3, Runof= 0.00, CO2= 370.
+ Wageningen, water and N limit., wheat var.1, RUE=3.0                            
+
+
+YEAR    PL   EMERG FLOW  HALT    WSO     TAGB   HI  PARAB  RUE   DWAV RAIN  ESOIL   TRANS DRAIN RUNOF  IRR   WUE  NUPT  NFIX    NLIV   NLOSS   NUE    TRANRF   NNI  
+1975     0     1   160   220     4036.  10897. 0.37  676.  1.61  -28.  473.  168.   170.  107.    0.    0.  3.22   65.0    0.0   62.5   10.8  151.5   1.00   0.77
+1976     0     1   161   216     4242.  11267. 0.38  751.  1.50  110.  243.  124.   204.   25.    0.    0.  3.43   65.0    0.0   61.5   11.9  157.1   0.90   0.77
+
+ MEANS over   2 years  :
+         0.    1.  160.  218.    4139.  11082. 0.37  714.  1.56   41.  358.  146.   187.   66.    0.    0.  3.33   65.0    0.0   62.0   11.3  154.3   0.95   0.77
+ STANDARD DEVIATIONS  :
+         0.    0.    0.    0.       0.      0. 0.00    0.  0.00    0.    0.    0.     0.    0.    0.    0.  0.00    0.0    0.0    0.0    0.0    0.0   0.00   0.00
+ VARIATION COEFFICIENTS (%)  : 
+        0.0   0.0   0.0   0.0      0.0     0.0  0.0   0.0   0.0   0.0   0.0   0.0    0.0   0.0   0.0   0.0   0.0    0.0    0.0    0.0    0.0    0.0   0.00   0.00

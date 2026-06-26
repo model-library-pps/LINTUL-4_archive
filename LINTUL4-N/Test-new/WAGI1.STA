@@ -1,0 +1,54 @@
+
+
+
+*** RESULTS OF CROP GROWTH MODEL LINTUL4 *** SUMMARY OF OUTPUT FOR CROP GROWTH, YIELD, WATER BALANCE AND NITROGEN UPTAKE, AND STATISTICS ***
+
+Name of run: WAGI1, Station= WAGE , Soil=   1, Crop=   1, Irr.=   1, IOPT=   1, Runof= 0.00, CO2= 360.
+ Wageningen, irrig.,wheat var.1, RUE=3.0                                         
+
+
+YEAR    PL   EMERG FLOW  HALT    WSO     TAGB   HI  PARAB  RUE   DWAV RAIN  ESOIL   TRANS DRAIN RUNOF  IRR   WUE  NUPT  NFIX    NLIV   NLOSS   NUE    TRANRF   NNI  
+1980     0     1   164   228     7794.  18779. 0.42  899.  2.09  -26.  428.   91.   287.   87.    0.   64.  4.96  172.4    0.0  161.7   19.1  106.4   1.00   1.00
+
+ MEANS over   1 years  :
+         0.    1.  164.  228.    7794.  18779. 0.42  899.  2.09  -26.  428.   91.   287.   87.    0.   64.  4.96  172.4    0.0  161.7   19.1  106.4   1.00   1.00
+ STANDARD DEVIATIONS  :
+         0.    0.    0.    0.       0.      0. 0.00    0.  0.00    0.    0.    0.     0.    0.    0.    0.  0.00    0.0    0.0    0.0    0.0    0.0   0.00   0.00
+ VARIATION COEFFICIENTS (%)  : 
+        0.0   0.0   0.0   0.0      0.0     0.0  0.0   0.0   0.0   0.0   0.0   0.0    0.0   0.0   0.0   0.0   0.0    0.0    0.0    0.0    0.0    0.0   0.00   0.00
+
+
+
+*** RESULTS OF CROP GROWTH MODEL LINTUL4 *** SUMMARY OF OUTPUT FOR CROP GROWTH, YIELD, WATER BALANCE AND NITROGEN UPTAKE, AND STATISTICS ***
+
+Name of run: WAGW2, Station= WAGE , Soil=   1, Crop=   1, Irr.=   0, IOPT=   2, Runof= 0.00, CO2= 370.
+ Wageningen, water limit.,wheat var.1, RUE=3.0                                   
+
+
+YEAR    PL   EMERG FLOW  HALT    WSO     TAGB   HI  PARAB  RUE   DWAV RAIN  ESOIL   TRANS DRAIN RUNOF  IRR   WUE  NUPT  NFIX    NLIV   NLOSS   NUE    TRANRF   NNI  
+1980     0     1   164   228     7598.  18565. 0.41  900.  2.06   14.  428.   90.   282.   70.    0.    0.  4.99  171.5    0.0  160.4   19.4  105.8   0.99   1.00
+
+ MEANS over   1 years  :
+         0.    1.  164.  228.    7598.  18565. 0.41  900.  2.06   14.  428.   90.   282.   70.    0.    0.  4.99  171.5    0.0  160.4   19.4  105.8   0.99   1.00
+ STANDARD DEVIATIONS  :
+         0.    0.    0.    0.       0.      0. 0.00    0.  0.00    0.    0.    0.     0.    0.    0.    0.  0.00    0.0    0.0    0.0    0.0    0.0   0.00   0.00
+ VARIATION COEFFICIENTS (%)  : 
+        0.0   0.0   0.0   0.0      0.0     0.0  0.0   0.0   0.0   0.0   0.0   0.0    0.0   0.0   0.0   0.0   0.0    0.0    0.0    0.0    0.0    0.0   0.00   0.00
+
+
+
+*** RESULTS OF CROP GROWTH MODEL LINTUL4 *** SUMMARY OF OUTPUT FOR CROP GROWTH, YIELD, WATER BALANCE AND NITROGEN UPTAKE, AND STATISTICS ***
+
+Name of run: WAGN3, Station= WAGE , Soil=   1, Crop=   1, Irr.=   0, IOPT=   3, Runof= 0.00, CO2= 370.
+ Wageningen, water and N limit., wheat var.1, RUE=3.0                            
+
+
+YEAR    PL   EMERG FLOW  HALT    WSO     TAGB   HI  PARAB  RUE   DWAV RAIN  ESOIL   TRANS DRAIN RUNOF  IRR   WUE  NUPT  NFIX    NLIV   NLOSS   NUE    TRANRF   NNI  
+1980     0     1   164   228     6537.  15742. 0.42  784.  2.01   -5.  428.  113.   239.   70.    0.    0.  4.47  136.7    0.0  129.7   15.4  110.8   1.00   0.88
+
+ MEANS over   1 years  :
+         0.    1.  164.  228.    6537.  15742. 0.42  784.  2.01   -5.  428.  113.   239.   70.    0.    0.  4.47  136.7    0.0  129.7   15.4  110.8   1.00   0.88
+ STANDARD DEVIATIONS  :
+         0.    0.    0.    0.       0.      0. 0.00    0.  0.00    0.    0.    0.     0.    0.    0.    0.  0.00    0.0    0.0    0.0    0.0    0.0   0.00   0.00
+ VARIATION COEFFICIENTS (%)  : 
+        0.0   0.0   0.0   0.0      0.0     0.0  0.0   0.0   0.0   0.0   0.0   0.0    0.0   0.0   0.0   0.0   0.0    0.0    0.0    0.0    0.0    0.0   0.00   0.00
